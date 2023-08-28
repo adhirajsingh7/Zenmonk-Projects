@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "Task": "Carrots - Mini, Stem On",
+        "Complete": true
+    },
+    {
+        "id": 2,
+        "Task": "Soup - Campbells, Spinach Crm",
+        "Complete": false
+    },
+    {
+        "id": 3,
+        "Task": "Mayonnaise",
+        "Complete": false
+    },
+    {
+        "id": 4,
+        "Task": "Octopus",
+        "Complete": true
+    },
+    {
+        "id": 5,
+        "Task": "Wine - Manischewitz Concord",
+        "Complete": true
+    },
+    {
+        "id": 6,
+        "Task": "Buffalo - Tenderloin",
+        "Complete": false
+    },
+    {
+        "id": 7,
+        "Task": "Capon - Breast, Wing On",
+        "Complete": false
+    },
+    {
+        "id": 8,
+        "Task": "Bread - Sticks, Thin, Plain",
+        "Complete": true
+    },
+    {
+        "id": 9,
+        "Task": "Taro Root",
+        "Complete": false
+    },
+    {
+        "id": 10,
+        "Task": "Wine - Magnotta - Belpaese",
+        "Complete": false
+    },
+    {
+        "id": 11,
+        "Task": "Wine - Baron De Rothschild",
+        "Complete": false
+    },
+    {
+        "id": 12,
+        "Task": "Ecolab - Medallion",
+        "Complete": false
+    },
+    {
+        "id": 13,
+        "Task": "Sea Bass - Fillets",
+        "Complete": true
+    },
+    {
+        "id": 14,
+        "Task": "Bread - Italian Roll With Herbs",
+        "Complete": false
+    },
+    {
+        "id": 15,
+        "Task": "Table Cloth 54x54 White",
+        "Complete": false
+    },
+    {
+        "id": 16,
+        "Task": "Rum - Light, Captain Morgan",
+        "Complete": true
+    },
+    {
+        "id": 17,
+        "Task": "Wine - White, Ej",
+        "Complete": false
+    },
+    {
+        "id": 18,
+        "Task": "Beef - Tongue, Fresh",
+        "Complete": false
+    },
+    {
+        "id": 19,
+        "Task": "Pepper - Black, Ground",
+        "Complete": false
+    },
+    {
+        "id": 20,
+        "Task": "Hand Towel",
+        "Complete": true
+    }
+]
