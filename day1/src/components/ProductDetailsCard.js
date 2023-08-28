@@ -8,7 +8,7 @@ const ProductDetailsCard = ({ data , TotalValue ,setTotalValue}) => {
     setTotalValue(TotalValue+1)
   };
 
-  const DecreaseCartValue = () => {
+  const DecreaseCartValue = () => { 
     if (CartValue > 0) {
       setCartValue(CartValue - 1);
       setTotalValue(TotalValue-1)
